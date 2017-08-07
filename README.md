@@ -7,5 +7,5 @@
 use this demo to show how to communicate with C realtime.
 
 ## Keys
-### get config data from C
-### support any memory width
+- get config data from C
+- support any memory width
